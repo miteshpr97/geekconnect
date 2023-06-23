@@ -12,7 +12,7 @@ export default function Footer() {
     <Box >
     
       <Typography variant="h6" gutterBottom component="div" align="center">
-       &copy; Ayush sir and teams!
+       &copy; Mitesh!
       </Typography>
         
     </Box>
